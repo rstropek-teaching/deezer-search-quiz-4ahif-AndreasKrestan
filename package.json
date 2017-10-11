@@ -1,7 +1,7 @@
 {
     "name": "dzrsrhquiz",
     "version": "1.0.0",
-    "description": " ",
+    "description": "",
     "main": "cors-proxy.js",
     "scripts": {
       "build": "tsc index.ts"
